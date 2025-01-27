@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Hoje procuro o meu primeiro trabalho na área da programação.
-- 🌱 Estudando JavaScript, Node.js.
+- 🌱 Estudando JavaScript, REACT.js.
 - 📫 How to reach me: estevamvicttor@gmail.com
 
