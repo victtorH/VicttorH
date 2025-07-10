@@ -1,6 +1,18 @@
 ### Hi there 👋
-
-- 🔭 Hoje procuro o meu primeiro trabalho na área da programação.
-- 🌱 Estudando JavaScript, REACT.js.
-- 📫 How to reach me: estevamvicttor@gmail.com
+<br>
+<h1>Meu nome é Victtor</h1>
+<p>muito prazer</p>:smiley:
+<br>
+<br>
+<ul>
+<li>🔭 Hoje procuro o meu primeiro trabalho na área da programação.</li> 
+<li>🌱 Estudando JavaScript, REACT.js.</li>
+</ul>
+<br>
+<h2>📫 How to reach me</h2>
+  <a href="estevamvicttor@gmail.com">Gmail</a>
+  <a href="www.linkedin.com/in/victtor-estevam-083419245">Linkedin</a>
+<br>
+<br>
+[![VicttorH stats](https://github-readme-stats.vercel.app/api?username=VicttorH)](https://github.com/anuraghazra/github-readme-stats)
 
