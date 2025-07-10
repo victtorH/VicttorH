@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 <h1>Meu nome é Victtor</h1>
-<p>muito prazer</p>:smiley:
+<p>É um prazer enorme ter você aqui. :smiley:</p>
 <br>
 <br>
 <ul>
@@ -14,5 +14,5 @@
   <a href="www.linkedin.com/in/victtor-estevam-083419245">Linkedin</a>
 <br>
 <br>
-[![VicttorH stats](https://github-readme-stats.vercel.app/api?username=VicttorH)](https://github.com/anuraghazra/github-readme-stats)
+[![Victtor stats](https://github-readme-stats.vercel.app/api?username=VicttorH)](https://github.com/anuraghazra/github-readme-stats)
 
