@@ -10,7 +10,7 @@
 </li> 
 <li>
 <h3>🌱 Me aperfeiçoando em:</h3>
-<p>REACT.js., APIs rest com Node.js e Django.py</p>
+<p>C# .Net., APIs rest com Node.js e Banco de Dados</p>
 </li>
 </ul>
 <br>
