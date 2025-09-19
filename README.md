@@ -45,7 +45,7 @@
 ### 📫 Vamos Conectar!
 
 <div align="left">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BUOX6fsLSREea5vYAZl6NSA%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/victtorestevam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
   <a href="estevamvicttor@gmail.com" target="_blank">
