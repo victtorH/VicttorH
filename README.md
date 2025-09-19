@@ -7,22 +7,13 @@
 - 🏢 Atualmente trabalhando como: Analista de Suporte na Cadmus
 - 🎓 Graduando em: Desenvolvimento De Software - FATEC
 - 📚 Estudando: C# .Net; Azure; Docker.
+<br>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/victtorH">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victtorH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/victtorH">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victtorH&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victtorH&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victtorH&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+<br>
 <br clear="both">
 
 <div align="left">
@@ -52,9 +43,8 @@
 </picture>
 
 ### 📫 Vamos Conectar!
-<br>
 
-<div align="center">
+<div align="left">
   <a href="URL_DO_SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
