@@ -38,14 +38,13 @@ Meu próximo objetivo é aprofundar meus conhecimentos em Clean Code e arquitetu
 ### 📫 Vamos Conectar!
 
 Estou em busca da minha primeira oportunidade e aberto a novas conexões. Sinta-se à vontade para entrar em contato!
+  
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victtorH/victtorH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victtorH/vittorH/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victtorH/victtorH/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="mailto:SEU_EMAIL@EXEMPLO.COM" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
-</div>
+
 
 
