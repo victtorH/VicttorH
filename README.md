@@ -6,7 +6,7 @@
 
 - 🏢 Atualmente trabalhando como: Analista de Suporte na Cadmus
 - 🎓 Graduando em: Desenvolvimento De Software - FATEC
-- 📚 Estudando: C# .Net; Azure; Docker.
+- 📚 Estudando: C# .Net; Azure.
 <br>
 
 <div align="center">
