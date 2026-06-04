@@ -4,7 +4,7 @@
 
 ### 📝 Sobre mim
 
-- 🏢 Atualmente trabalhando como: Analista de Suporte na Cadmus
+- 🏢 Atualmente trabalhando como: Suporte Tecnico na Velip
 - 🎓 Graduando em: Desenvolvimento De Software - FATEC
 - 📚 Estudando: CQRS e cache.
 <br>
