@@ -6,14 +6,9 @@
 
 - 🏢 Atualmente trabalhando como: Suporte Tecnico na Velip
 - 🎓 Graduando em: Desenvolvimento De Software - FATEC
-- 📚 Estudando: CQRS e cache.
+- 📚 Estudando: CQRS(logico) e cache.
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victtorH&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victtorH&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-<br>
 <br clear="both">
 
 <div align="left">
