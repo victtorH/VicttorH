@@ -4,7 +4,7 @@
 
 ### 📝 Sobre mim
 
-- 🏢 Atualmente trabalhando como: Suporte Tecnico na Velip
+- 🏢 Atualmente trabalhando como: Engenheiro de Soluções
 - 🎓 Graduando em: Desenvolvimento De Software - FATEC
 - 📚 Estudando: CQRS(logico) e cache.
 <br>
